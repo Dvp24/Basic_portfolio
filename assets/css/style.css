@@ -1,0 +1,100 @@
+
+.full{
+    margin: auto;
+    background-color: #ffffff;
+    width: auto;
+    height: 50px;
+    border-bottom: solid;
+    border-bottom-color: #cccccc;
+}
+.first{
+    background-color: #4aaaa5;
+    margin-left: 150px;
+    float: left;
+    width: 200px;
+    height: 50px;
+
+}
+#mh{
+    float: left;
+    margin: 12px 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.about, .port, .contact, .part{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    float: right;
+    margin-left: 100px;
+    font-size: 11px;
+}
+.contact{
+    margin: 14px 150px 14px 20px;
+}
+.about, .port, .part{
+    margin: 14px 20px;
+}
+
+.mcontent{
+    margin: 30px auto;
+    clear: both;
+    width: 960px;
+    height: 400px;
+    background-color: #ffffff;
+    border: solid;
+    border-color: #dddddd;
+}
+#heading{
+
+    color: #4aaaa5;
+    margin: 30px 250px 20px 20px;
+}
+#grey{
+    margin: 20px 20px;
+    clear: both;
+    color: #cccccc;
+}
+image{
+    float: left;
+    width: 20px;
+    height: 5px;
+    margin-left: 20px;
+    /* padding-left: 20px; */
+}
+/* doubt why para ids not appearing????? */
+.para{
+    width: 440px;
+    height:400px;
+    margin: 0px 20px;
+    /* float: left; */
+    color: red;
+    font-size: 11px;
+    width: auto;
+
+}
+p{
+    margin: 0px 20px;
+    /* float: left; */
+    color: #777777;
+    line-height: 20px;
+    font-size: 12px;
+    width: auto;
+    
+}
+
+#green{
+
+    margin: 0px auto;
+    line-height: 2px;
+    color: #4aaaa5;
+}
+.footer{
+    margin: 0px auto;
+    height: 30px;
+    background-color: #777777;
+    color: #ffffff;
+    font-size: 8px;
+    text-align: center;
+    padding-top: 28px;
+    /* vertical-align: text-bottom; */
+}
