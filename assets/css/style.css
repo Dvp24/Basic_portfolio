@@ -39,7 +39,7 @@
     margin: 30px auto;
     clear: both;
     width: 960px;
-    height: 400px;
+    height: 450px;
     background-color: #ffffff;
     border: solid;
     border-color: #dddddd;
@@ -54,10 +54,10 @@
     clear: both;
     color: #cccccc;
 }
-image{
+img{
     float: left;
-    width: 20px;
-    height: 5px;
+    width: 350px;
+    height: 300px;
     margin-left: 20px;
     /* padding-left: 20px; */
 }
@@ -82,19 +82,19 @@ p{
     
 }
 
-#green{
+/* #green{
 
     margin: 0px auto;
     line-height: 2px;
     color: #4aaaa5;
-}
+} */
 .footer{
-    margin: 0px auto;
+    /* margin: 0px auto; */
     height: 30px;
     background-color: #777777;
     color: #ffffff;
     font-size: 8px;
     text-align: center;
     padding-top: 28px;
-    /* vertical-align: text-bottom; */
+
 }
