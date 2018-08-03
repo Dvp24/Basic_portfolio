@@ -127,10 +127,9 @@ h4{
     margin: 17px 46px;
 }
 .upper{
-    /* clear: both; */
     margin-left: 20px;
     background-color: #4aaaa5;
-    width: 200px;
+    width: 250px;
     height: 50px;
     z-index: 20;
 }
@@ -142,27 +141,27 @@ h4{
 }
 .pf2{
     float: left;
-    background-image: image("r3.jpg");
+    background-image: image("r4.jpg");
     background-size: 100px 100px;
     margin: 10px;
 }
 .pf3{
     clear: both;
     float: left;
-    background-image: image("r3.jpg");
+    background-image: image("r5.jpg");
     background-size: 100px 100px;
     margin: 10px;
 }
 .pf4{    
     float: left;
-    background-image: image("r3.jpg");
+    background-image: image("r6.jpg");
     background-size: 100px 100px;
     margin: 10px;
 }
 .pf5{
     clear: both;
     float: left;
-    background-image: image("r3.jpg");
-    background-size: 100px 100px;
+    background-image: url("assets/images/r7.jpg");
+    background-size: 300px 200px;
     margin: 10px;
 }
