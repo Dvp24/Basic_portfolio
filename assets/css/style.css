@@ -1,5 +1,12 @@
+body{
+    background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    margin: 0px;
+}
+
 .full{
     margin: auto;
+    margin-top: 0px;
     background-color: #ffffff;
     width: auto;
     height: 50px;
@@ -57,7 +64,8 @@ hr{
     clear: both;
     color: #cccccc;
 }
-img{
+.p1, .p2, .p3, .p4, .p5, img{
+    z-index: 5;
     float: left;
     width: 280px;
     height: 150px;
@@ -103,23 +111,58 @@ input{
     padding: 5px;
 }
 .msg{
+    clear: both;
     height:100px;
+    width: 900px;
+    margin: 0px 20px 5px 20px;
 }
 .submit{
+    clear: both;
     margin-left: 20px;
     margin-top: 20px;
     width: 150px;
-}
+} 
 h4{
+    clear: both;
     margin: 17px 46px;
 }
 .upper{
-    width: 280px;
-    height: 50px;
+    /* clear: both; */
+    margin-left: 20px;
     background-color: #4aaaa5;
-    color: #ffffff;
-    position: relative;
-    bottom: 3px;
-    left: 0px;
-    z-index: 20; 
+    width: 200px;
+    height: 50px;
+    z-index: 20;
+}
+.pf1{
+    float: left;
+    background-image: image("r3.jpg");
+    background-size: 100px 100px;
+    margin: 10px;
+}
+.pf2{
+    float: left;
+    background-image: image("r3.jpg");
+    background-size: 100px 100px;
+    margin: 10px;
+}
+.pf3{
+    clear: both;
+    float: left;
+    background-image: image("r3.jpg");
+    background-size: 100px 100px;
+    margin: 10px;
+}
+.pf4{    
+    float: left;
+    background-image: image("r3.jpg");
+    background-size: 100px 100px;
+    margin: 10px;
+}
+.pf5{
+    clear: both;
+    float: left;
+    background-image: image("r3.jpg");
+    background-size: 100px 100px;
+    margin: 10px;
 }
