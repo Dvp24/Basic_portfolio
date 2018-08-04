@@ -126,8 +126,9 @@ h4{
     clear: both;
     margin: 17px 46px;
 }
+/* portfolio page */
 .upper{
-    margin-left: 20px;
+    margin-top: 80px;
     background-color: #4aaaa5;
     width: 250px;
     height: 50px;
@@ -135,33 +136,47 @@ h4{
 }
 .pf1{
     float: left;
-    background-image: image("r3.jpg");
+    background-image: url(../images/r3.jpg);
     background-size: 100px 100px;
-    margin: 10px;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
 }
 .pf2{
     float: left;
-    background-image: image("r4.jpg");
+    background-image: url(../images/r4.jpg);
     background-size: 100px 100px;
-    margin: 10px;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
 }
 .pf3{
-    clear: both;
     float: left;
-    background-image: image("r5.jpg");
+    background-image: url(../images/r5.jpg);;
     background-size: 100px 100px;
-    margin: 10px;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
 }
-.pf4{    
+.pf4{  
+    clear: both;  
     float: left;
-    background-image: image("r6.jpg");
+    background-image: url(../images/r7.jpg);;
     background-size: 100px 100px;
-    margin: 10px;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
 }
 .pf5{
-    clear: both;
+    /* clear: both; */
     float: left;
-    background-image: url("assets/images/r7.jpg");
-    background-size: 300px 200px;
-    margin: 10px;
+    background-image: url(../images/r8.jpg);
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
+}
+.pn{
+    color: #ffffff;
+    text-align: center;
+    padding: 12px 0px;    
 }
