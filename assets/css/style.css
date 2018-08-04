@@ -137,7 +137,7 @@ h4{
 .pf1{
     float: left;
     background-image: url(../images/r3.jpg);
-    background-size: 100px 100px;
+    background-size: cover;
     margin: 20px 20px 10px 20px;
     width: 250px;
     height: 150px;
@@ -145,7 +145,7 @@ h4{
 .pf2{
     float: left;
     background-image: url(../images/r4.jpg);
-    background-size: 100px 100px;
+    background-size: cover;
     margin: 20px 20px 10px 20px;
     width: 250px;
     height: 150px;
@@ -153,7 +153,7 @@ h4{
 .pf3{
     float: left;
     background-image: url(../images/r5.jpg);;
-    background-size: 100px 100px;
+    background-size: cover;
     margin: 20px 20px 10px 20px;
     width: 250px;
     height: 150px;
@@ -162,7 +162,7 @@ h4{
     clear: both;  
     float: left;
     background-image: url(../images/r7.jpg);;
-    background-size: 100px 100px;
+    background-size: cover;
     margin: 20px 20px 10px 20px;
     width: 250px;
     height: 150px;
@@ -171,6 +171,7 @@ h4{
     /* clear: both; */
     float: left;
     background-image: url(../images/r8.jpg);
+    background-size: cover;
     margin: 20px 20px 10px 20px;
     width: 250px;
     height: 150px;
